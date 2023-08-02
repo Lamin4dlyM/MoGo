@@ -26,9 +26,37 @@ nav {
 
 /* Intro */
 .intro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   width: 100%;
   height: 100vh;
   background: url(../images/bird_bg.jpg) center no-repeat;
+  color: #fff;
+}
+
+.intro__inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 840px;
+  margin: 0 auto;
+}
+
+.intro__subtitle {
+  font-size: 4rem;
+  font-family: "Kaushan Script", sans-serif;
+  color: inherit;
+}
+
+.intro__title {
+  font-size: 9.375rem;
+  font-weight: 700;
+  width: 100%;
+  text-transform: uppercase;
+  line-height: 1;
+  text-align: center;
+  color: inherit;
 }
 
 /* Header */
@@ -41,17 +69,17 @@ nav {
   z-index: 1000;
 }
 
+.header__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .header__logo {
   color: #fff;
   font-size: 1.875rem;
   font-weight: 700;
   font-family: "Montserrat", sans-serif;
-}
-
-.header__inner {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
 }
 
 /* Nav */
@@ -76,6 +104,7 @@ nav {
   content: "";
   width: 100%;
   height: 3px;
+  position: absolute;
 
   opacity: 0;
   transition: opacity 0.1s linear;
@@ -83,7 +112,6 @@ nav {
   background-color: #fce38a;
   top: 120%;
   left: 0;
-  position: absolute;
   z-index: 1;
 }
 
