@@ -68,10 +68,10 @@ body {
 .intro__title:after {
   content: "";
   width: 60px;
-  height: 4px;
+  height: 3px;
   background-color: #fff;
   display: block;
-  margin: 60px auto;
+  margin: 45px auto;
 }
 
 /* Button */
@@ -79,7 +79,7 @@ body {
   display: inline-block;
 
   margin-block-end: 60px;
-  padding: 10px 35px;
+  padding: 7px 25px;
 
   border: 3px solid #fff;
 
@@ -97,6 +97,11 @@ body {
 
 /* Slider */
 .slider {
+  position: relative;
+  margin-block-start: 75px;
+}
+
+.slider__inner {
   display: flex;
   justify-content: space-between;
 }
@@ -199,6 +204,9 @@ body {
 }
 
 /* Section */
+.section {
+  background-color: #fff;
+}
 
 .section__inner {
   padding: 110px 0;
