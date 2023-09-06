@@ -208,7 +208,7 @@ body {
   }
 
   .section__inner {
-    padding: 110px 0;
+    padding: 110px 0 80px;
     color: black;
     display: flex;
     flex-direction: column;
@@ -244,5 +244,19 @@ body {
     margin-block-start: 45px;
     color: #999;
     text-align: center;
+  }
+
+  .section__images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .section__images__item {
+    width: 380px;
+    height: 250px;
+    background-color: #333;
+    mask-image: url(images/section1_item2.png);
   }
 }
