@@ -251,6 +251,8 @@ body {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+
+    padding-block-end: 110px;
   }
 
   .section__images__item {
@@ -258,5 +260,17 @@ body {
     height: 250px;
     background-color: #333;
     mask-image: url(images/section1_item2.png);
+  }
+
+  /* Facts Section */
+  .facts {
+    background-color: #95e1d3;
+  }
+
+  .facts__inner {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
   }
 }
