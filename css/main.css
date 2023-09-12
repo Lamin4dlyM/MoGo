@@ -270,19 +270,22 @@ body {
   .facts__inner {
     display: flex;
     flex-direction: row;
-    justify-content: center;
-
-    /* height: 270px; */
   }
 
   .facts__inner__item {
     text-transform: uppercase;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 
     width: 240px;
     height: 270px;
     border-left: 1px solid #fff;
     border-right: 1px solid #fff;
+  }
+
+  .facts__inner__item > h2 {
   }
 
   .facts__inner__item__header {
