@@ -296,4 +296,29 @@ body {
   .facts__inner__item__desc {
     font-size: 14px;
   }
+
+  .section__services {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+
+  .section__services__item {
+    margin: 10px;
+    width: 28%;
+    
+    /* background-color: #666; */
+  }
+
+  h4 {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;    
+  }
+
+  .section__services__item > p {
+    font-family: 'Roboto', sans-serif;
+    color: #b3b3b3;
+  }
 }
