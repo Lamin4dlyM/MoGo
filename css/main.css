@@ -307,18 +307,24 @@ body {
   .section__services__item {
     margin: 10px;
     width: 28%;
-    
     /* background-color: #666; */
   }
 
   h4 {
     font-size: 14px;
     font-weight: 700;
-    text-transform: uppercase;    
+    color: #666;
+    text-transform: uppercase;
   }
 
   .section__services__item > p {
+    margin-block-start: 10px;
     font-family: 'Roboto', sans-serif;
     color: #b3b3b3;
+    line-height: 170%;
+  }
+
+  .section__services__img {
+    float: left;
   }
 }
