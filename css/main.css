@@ -23,7 +23,6 @@ body {
   display: flex;
   flex-direction: column;
   width: 100%;
-  
 }
 
 @media (min-width: 1200px) {
@@ -324,12 +323,19 @@ body {
     color: #666;
     text-transform: uppercase;
   }
-  
+
   .section__services__item__content > p {
     margin-block-start: 10px;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #b3b3b3;
     line-height: 170%;
+  }
 
+  /* Unique Design Section */
+  .unique_design {
+    height: 100vh;
+    background: url(/images/unique_design_background.png) center no-repeat;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.85);
   }
 }
