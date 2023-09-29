@@ -361,4 +361,58 @@ body {
     left: 60%;
     width: 45%;
   }
+
+  /* What we do Section */
+  .our_services {
+    width: 100%;
+    display: flex;
+  }
+
+  .our_services__item {
+    width: 50%;
+  }
+
+  .accordion__item {
+    border: 1px solid #e5e5e5;
+    position: relative;
+  }
+
+  .item__header {
+    border-bottom: 1px solid #e5e5e5;
+    padding: 20px 20px 20px 60px;
+  }
+
+  .item__header::after {
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-top: 2px solid #ccc;
+    border-right: 2px solid #ccc;
+    top: 25px;
+    right: 4%;
+    rotate: -45deg;
+  }
+
+  .item__header__title {
+    color: #333;
+    font-size: 0.875rem;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+
+  .item__header__icon {
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    z-index: 1;
+  }
+
+  .item__content {
+    /* display: none; */
+    padding: 20px;
+    font-weight: 300;
+    font-style: italic;
+    color: #b3b3b3;
+  }
 }
