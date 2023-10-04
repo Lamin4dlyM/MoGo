@@ -7,6 +7,7 @@
 html {
   font-family: "Montserrat", sans-serif;
   font-size: 1rem;
+  /* line-height: 24px; */
 }
 
 h1,
@@ -214,10 +215,16 @@ body {
     background-color: #f8f8f8;
   }
 
+  .section__header {
+    text-align: center;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto 105px;
+  }
+
   .section__inner {
     padding: 110px 0 110px;
     color: black;
-    text-align: center;
   }
 
   .section__suptitle {
@@ -246,7 +253,6 @@ body {
 
   .section__text {
     margin-block-start: 45px;
-    margin-block-end: 100px;
     color: #999;
     text-align: center;
   }
@@ -301,6 +307,10 @@ body {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+  }
+
+  .section__header--services {
+    margin-block-end: 60px;
   }
 
   .section__services__item {
@@ -473,13 +483,46 @@ body {
   /* Reviews */
   .reviews__item {
     position: relative;
-    padding: 70px 0 70px 280px;
+    padding: 70px 110px 70px 320px;
+  }
+
+  .review__btn {
+    font-size: 0;
+    color: transparent;
+
+    position: absolute;
+    z-index: 1;
+    transform: translateY(-50%);
+  }
+
+  .review__btn--prev {
+    top: 50%;
+    left: 0;
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-top: 2px solid #ccc;
+    border-left: 2px solid #ccc;
+    transform: rotate(-45deg);
+  }
+
+  .review__btn--next {
+    top: 50%;
+    left: 100%;
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-top: 2px solid #ccc;
+    border-left: 2px solid #ccc;
+    transform: rotate(135deg);
   }
 
   .review__photo {
     position: absolute;
     top: 70px;
-    left: 70px;
+    left: 110px;
     z-index: 1;
     border: 2px solid #95e1d3;
   }
@@ -494,7 +537,7 @@ body {
 
   .review__author {
     position: inherit;
-    margin-block-start: 25px;
+    margin-block-start: 5px;
     font-family: "Kaushan Script", sans-serif;
     font-size: 24px;
   }
@@ -508,4 +551,6 @@ body {
     margin-inline-end: 10px;
     background-color: #f38181;
   }
+
+  /*  */
 }
