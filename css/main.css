@@ -1,13 +1,14 @@
 * {
-  box-sizing: border-box;
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
+/* General */
+
 html {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 1rem;
-  /* line-height: 24px; */
 }
 
 h1,
@@ -20,19 +21,50 @@ nav {
   font-family: "Montserrat", sans-serif;
 }
 
+p {
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/*** Title ***/
+
+.title {
+  background: url(../images/bird_bg.jpg) center no-repeat;
+  background-size: cover;
+  color: #fff;
+  height: 100vh;
+}
+
+/* Header */
+
+.header {
+  padding-top: 1.875rem;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+.header__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 /* Intro */
-body {
+/* body {
   display: flex;
   flex-direction: column;
   width: 100%;
-}
+} */
 
 @media (min-width: 1200px) {
-  .container {
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-  }
+  /*  
 
   .intro__inner {
     display: flex;
@@ -71,10 +103,10 @@ body {
     background-color: #fff;
     display: block;
     margin: 45px auto;
-  }
+  } */
 
   /* Button */
-  .btn {
+  /* .btn {
     display: inline-block;
 
     margin-block-end: 60px;
@@ -92,10 +124,10 @@ body {
   .btn:hover {
     background-color: #fff;
     color: #333;
-  }
+  } */
 
   /* Slider */
-  .slider {
+  /* .slider {
     position: relative;
     margin-block-start: 75px;
   }
@@ -138,35 +170,22 @@ body {
 
     opacity: 0.7;
   }
+*/
 
-  .title {
-    background: url(../images/bird_bg.jpg) center no-repeat;
-    background-size: cover;
-    color: #fff;
-  }
   /* Header */
-  .header {
-    padding-top: 1.875rem;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 1000;
-  }
+  /* 
 
-  .header__inner {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
+  
 
   .header__logo {
     color: #fff;
-    font-size: 1.875rem;
+    font-size: 1.5rem;
     font-weight: 700;
-  }
+  } */
 
   /* Nav */
-  .nav {
+
+  /* .nav {
     font-size: 0.875rem;
     text-transform: uppercase;
   }
@@ -204,9 +223,11 @@ body {
 
   .nav__link:hover:after {
     opacity: 1;
-  }
+  } */
 
-  /* Section */
+  /* ----------------- */
+  /* -----Section----- */
+  /* ----------------- */
   .section {
     background-color: #fff;
   }

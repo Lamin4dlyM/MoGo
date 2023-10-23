@@ -1,0 +1,192 @@
+[33mcommit 81709fab52872ddefe516c98f2251ceecb9beadd[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Tue Oct 10 19:57:29 2023 +0400
+
+    Update Who We Are Section.
+
+[33mcommit 7152560413a09024e5d930deb8d2ddb9b31d03d3[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Tue Oct 10 19:06:33 2023 +0400
+
+    Fix Facts Section.
+
+[33mcommit 55c185fe192a216ce01daa8a15cf4d0b836d815a[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Wed Oct 4 20:03:18 2023 +0400
+
+    Code Refactoring.
+
+[33mcommit aff2f637ce16854b2a087b12beb71a346db03a0e[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Tue Oct 3 21:00:21 2023 +0400
+
+    Fix Image Applying.
+
+[33mcommit b3de8865daac9570e35c2d12088b2d5a924081df[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Tue Oct 3 20:53:04 2023 +0400
+
+    Add Reviews Section.
+
+[33mcommit a9ded7a2e28144806956fb9d4d126a89c4cc5418[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Mon Oct 2 21:53:51 2023 +0400
+
+    Minor Refactoring.
+
+[33mcommit 76238a230dc0b5f9ec107fcc81845d06d77877ff[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Sat Sep 30 13:42:55 2023 +0400
+
+    Complete What We Do Section.
+
+[33mcommit cf0ec9e5700463cc9fb36ccd60e10bd576fa51dc[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Fri Sep 29 20:15:34 2023 +0400
+
+    Upgrade What We Do Section.
+
+[33mcommit 80fcb463e1f79ebb3d4efe617ab6214fcd2d4667[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Wed Sep 27 20:29:46 2023 +0400
+
+    Update Unique Design Section. Add devices.
+
+[33mcommit 47c5693e314969278796b293405bf75571dcfa1c[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Wed Sep 27 19:42:23 2023 +0400
+
+    Update Unique Design Section.
+
+[33mcommit 02b857c6ec91dfceafa6e5a8d1c0d1ee944d40ba[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Tue Sep 26 20:54:33 2023 +0400
+
+    Add Unique Design Section.
+
+[33mcommit 53f8aad5da2f51c7879b5fdf7a9ea6a5eb78979c[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Fri Sep 22 09:45:38 2023 +0400
+
+    Complete Amazing Services Section.
+
+[33mcommit 23d07aee86af8da9993d2d569514cc03919004d8[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Wed Sep 20 21:14:00 2023 +0400
+
+    Add icons.
+
+[33mcommit 58bec5fde2ee1dc590ee476f0b30b30c380f84ed[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Wed Sep 20 20:57:59 2023 +0400
+
+    Update Amazing Services Section.
+
+[33mcommit fb34b36f4dec2c6f2833a2c7fb9bf4d07c9a4c00[m
+Author: Lamin4dlyM <132608662+Lamin4dlyM@users.noreply.github.com>
+Date:   Tue Sep 19 20:42:29 2023 +0400
+
+    Update README.md
+
+[33mcommit 82be30cf063db5bfe9a9c636c609bfb765e62c4e[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Wed Sep 13 21:15:06 2023 +0400
+
+    Add minor changes in facts section.
+
+[33mcommit 22f7fa4168f7236abb738d3cda0ea1aeaf312c6f[m
+Merge: f105a9c 4ab5b2e
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Wed Sep 13 00:13:26 2023 +0400
+
+    Merge branch 'main' of https://github.com/Lamin4dlyM/MoGo
+
+[33mcommit f105a9caafdc80ad407e4cb05b0bf1f636fd01e5[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Wed Sep 13 00:12:29 2023 +0400
+
+    Complete facts section without adaptive coding.
+
+[33mcommit 4ab5b2e07c2c326e129e913004bb39949b7310f8[m
+Author: Lamin4dlyM <132608662+Lamin4dlyM@users.noreply.github.com>
+Date:   Tue Sep 12 23:56:23 2023 +0400
+
+    Create README.md
+
+[33mcommit ce90bd8e4c836c0869117005be300672c0edbf6f[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Tue Sep 12 23:54:37 2023 +0400
+
+    Add facts section.
+
+[33mcommit 2078fb71a2bc685f97c43eedb875ee1ee971ff2e[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Mon Sep 11 23:26:18 2023 +0400
+
+    Minor section update.
+
+[33mcommit 8b2d96396730c5b104aa0c540be4129912c5cc37[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Wed Sep 6 23:12:33 2023 +0400
+
+    Minor section's update.
+
+[33mcommit dbc62a88da5402fcbfd9b51755d94e9b15df3739[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Tue Sep 5 23:03:52 2023 +0400
+
+    Add first media query.
+
+[33mcommit d0ea680ee9d0ee2168994fb2dddb4701f69b5b67[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Thu Aug 31 23:27:55 2023 +0400
+
+    Minor changes
+
+[33mcommit 8d6a1d7cc36beeff5e8c4ae46f649e6f8b63e992[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Thu Aug 31 23:27:35 2023 +0400
+
+    Minor changes
+
+[33mcommit fde41f5f98f6d27270c77f4752d3e1bce0ca4a77[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Tue Aug 29 22:35:59 2023 +0400
+
+    Edit new section
+
+[33mcommit 3d3b1e832dce56d7bb5d5728c71c576a81fc4e4b[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Mon Aug 28 23:18:43 2023 +0400
+
+    Create next section
+
+[33mcommit dcbd3c1ce0abf99775d4a0e79214879d700d036e[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Sun Aug 27 21:28:20 2023 +0400
+
+    Optimize content
+
+[33mcommit 4707ca1c8854e0ae377be361df9420beb1f08d2e[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Sat Aug 26 15:14:56 2023 +0400
+
+    Complete header
+
+[33mcommit 9d92276ce9c257e8e8aa22862dde680f2285f49f[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Wed Aug 2 21:22:09 2023 +0400
+
+    Add Intro Title
+
+[33mcommit c83cdd0fb67180e2ad93954d615ced40b19a8314[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Sun Jul 30 15:37:45 2023 +0400
+
+    Add header-nav panel
+
+[33mcommit 59d4fdaf85072198a04bf32c317f116c481b03ad[m
+Author: Lamin4dlyM <Lamin4dly@gmail.com>
+Date:   Sat Jul 29 13:53:52 2023 +0400
+
+    first commit
